@@ -7,3 +7,4 @@ project(SchaeferGL)
 set_property(GLOBAL PROPERTY USE_FOLDERS ON)
 
 add_subdirectory(SchaeferGL-Library)
+add_subdirectory(SchaeferGL-Tests)
