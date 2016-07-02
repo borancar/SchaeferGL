@@ -21,7 +21,6 @@ misrepresented as being the original software.
 // SchaeferGL-Library.cpp : Defines the exported functions for the DLL application.
 //
 
-#include "stdafx.h"
 #include "SchaeferGL-Library.h"
 
 

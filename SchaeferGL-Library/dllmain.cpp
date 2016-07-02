@@ -19,7 +19,6 @@ misrepresented as being the original software.
 */
 
 // dllmain.cpp : Defines the entry point for the DLL application.
-#include "stdafx.h"
 #include "Utilities.h"
 
 BOOL APIENTRY DllMain( HMODULE hModule,

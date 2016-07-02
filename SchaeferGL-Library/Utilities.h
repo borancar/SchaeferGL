@@ -21,7 +21,6 @@ misrepresented as being the original software.
 #ifndef UTILITIES_H
 #define UTILITIES_H
 
-#include "resource.h"
 #include "d3d9.h" // Base class: IDirect3DDevice9
 #include <vulkan/vulkan.h>
 #include <vulkan/vk_sdk_platform.h>

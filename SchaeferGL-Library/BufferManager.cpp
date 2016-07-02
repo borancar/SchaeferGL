@@ -67,10 +67,6 @@ BufferManager::BufferManager(CDevice9* device)
 	mTextureHeight(0)
 
 {
-
-	//mVertShaderModule = LoadShaderFromResource(mDevice->mDevice,  TRI_VERT);
-	//mFragshaderModule = LoadShaderFromResource(mDevice->mDevice, TRI_FRAG);
-
 	mVertShaderModule = LoadShaderFromFile(mDevice->mDevice, "VertexBuffer.vert.spv");
 	mFragShaderModule = LoadShaderFromFile(mDevice->mDevice, "VertexBuffer.frag.spv");
 
